@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b828407c3e48c70ee63d450f2c3bf9b49dbe6739",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-21T02:28:09.000Z",
       "message": "feat: Logica del multiplicador",
-      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/b828407c3e48c70ee63d450f2c3bf9b49dbe6739"
     },
     "stats": {
       "total": 5,
       "additions": 5,
       "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-21T02:29:31.000Z",
+      "message": "feat: Funcionamiento del multiplicador",
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 6,
+      "deletions": 3,
       "date": "2025-08-21"
     },
     "coverage": 100,
