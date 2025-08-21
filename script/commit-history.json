@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ed795fe195b333ab00f955551fe470088203a6c5",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-21T02:29:31.000Z",
       "message": "feat: Funcionamiento del multiplicador",
-      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/ed795fe195b333ab00f955551fe470088203a6c5"
     },
     "stats": {
       "total": 9,
       "additions": 6,
       "deletions": 3,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-21T02:33:28.000Z",
+      "message": "fix: Correccion al tipo de boton",
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-08-21"
     },
     "coverage": 100,
