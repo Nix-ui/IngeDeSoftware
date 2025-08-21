@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-21T02:24:41.000Z",
+      "message": "feat: Creacion del archivo multiplicador",
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
