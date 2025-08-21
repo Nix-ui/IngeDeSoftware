@@ -1,15 +1,34 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "62b80464aa8559bd707290d3acf518d7ef256abc",
     "author": "Matheo Quiroga",
     "commit": {
       "date": "2025-08-21T02:24:41.000Z",
       "message": "feat: Creacion del archivo multiplicador",
-      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/62b80464aa8559bd707290d3acf518d7ef256abc"
     },
     "stats": {
       "total": 0,
       "additions": 0,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Matheo Quiroga",
+    "commit": {
+      "date": "2025-08-21T02:28:09.000Z",
+      "message": "feat: Logica del multiplicador",
+      "url": "https://github.com/Nix-ui/IngeDeSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
       "deletions": 0,
       "date": "2025-08-21"
     },
